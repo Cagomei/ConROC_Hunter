@@ -193,8 +193,8 @@ ids.Rank = {
 	WyvernStingRank2 = 24132,
 	WyvernStingRank3 = 24133,
 	WyvernStrikeRank1 = 458436,
-	WyvernStrikeRank3 = 458481,
-	WyvernStrikeRank4 = 458482,
+	WyvernStrikeRank2 = 458481,
+	WyvernStrikeRank3 = 458482,
 }
 ids.BeastMastery_Talent = {
 	ImprovedAspectoftheMonkey = 1,
